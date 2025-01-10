@@ -28,8 +28,11 @@ Where to go to learn more about CSS.
 - [CSS Working Group](https://www.w3.org/Style/CSS/)
 - [CSS Working Group maturity levels](https://www.w3.org/2005/10/Process-20051014/tr#maturity-levels) 
 
-## To follow on X
+## Video courses
+- Maximillion Schwartzmuller's [CSS - The Complete Guide](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
+- Jonas Schmedtmann's [Advanced CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass/)
 
+## To follow on X
 - [CSS Animation](https://twitter.com/cssanimation)
 - [Dave McFarland](https://twitter.com/davemcfarland) - Author of CSS: The Missing Manual
 - [@jensimmons](https://x.com/jensimmons) - Jen Simmons, designer and developer 

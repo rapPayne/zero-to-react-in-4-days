@@ -19,6 +19,10 @@ Where to go to learn more about HTML.
 - [HTML](https://w3c.github.io/html/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 
+## Video courses
+- Colt Steele's [The HTML & CSS Bootcamp](https://www.udemy.com/course/html-and-css-bootcamp/)
+- Brad Traversy's [Modern HTML & CSS From The Beginning](https://www.udemy.com/course/modern-html-css-from-the-beginning/)
+
 ## To follow on X
 - [@html5](https://x.com/html5)
 - [@html5rock](https://x.com/html5rock)

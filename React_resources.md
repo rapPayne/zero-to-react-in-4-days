@@ -23,6 +23,10 @@ Where to go to learn more about React.
 - [React Official Website](https://react.dev/)
 - [React GitHub](https://github.com/facebook/react)
 
+## Video courses
+- Maximillion Schwartzmuller's [React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+- Steven Grider's [Modern React with Redux](https://www.udemy.com/course/react-redux/)
+
 ## To follow on X
 - [@reactjs](https://x.com/reactjs) - The official Twitter account for React
 - [@dan_abramov](https://x.com/dan_abramov) - Dan Abramov, React core team member
