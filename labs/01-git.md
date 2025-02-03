@@ -12,6 +12,7 @@ git clone https://github.com/rapPayne/zero-to-react-in-4-days.git --recurse-subm
 1. In that folder, create a README.md file with a few notes about your project.
 1. Get the API data server running on your local machine by copying the entire [server](../server) folder to your project and running these three commands in your new server folder:
 ```bash
+npm install
 npm run load-db
 npm run start
 ```
