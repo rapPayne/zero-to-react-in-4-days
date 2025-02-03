@@ -29,7 +29,7 @@ npm run start
 1. Edit the README file. Resolve the conflict by including some features of both changes.
 1. Git add, commit, and push.
 
-## Containerize and automate the CI/CD pipeline
-1. Ola will help us to Dockerize it and deploy it.
+## Automate the CI/CD pipeline
+1. Ola will help us to deploy it.
 
 In all of the following labs, make sure you commit changes to git and push them to your upstream repo.
