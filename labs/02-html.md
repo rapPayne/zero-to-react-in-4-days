@@ -4,10 +4,12 @@ In this lab we're going to create some pages. We'll give you a few descriptions 
 
 ## Home/Landing page
 This is the page that the user sees immediately upon visiting. It's always smart to get the user to their goal ASAP. And since they're here to order food, we'll put the menu right up front with buttons for them to add menuItems to their cart.
+1. Create a new folder called `website`. You'll create these pages in that folder.
 1. Create index.html.
 1. Give it these features:
 - A nav menu of links at the top.
 - A series of menu items, each with an image, a `<h2>` with the item name, `<p>` tags with the item's description, its price, and a button that says "Add"
+- The images can be displayed in the browser with a src of `http://localhost:3000/images/food/<image_name>.jpg`.
 - Don't worry about sizing the image yet.
 - Note that there are no spaces between the nav menu links. That's also fine for now.
 - Here's a screenshot
