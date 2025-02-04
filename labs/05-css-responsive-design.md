@@ -4,7 +4,7 @@ In this lab, you will make the navigation bar responsive. When the screen width 
 
 ### Instructions:
 
-1. Edit App.tsx. Use media queries to apply different styles based on the screen width.
+1. Edit your CSS file. Use media queries to apply different styles based on the screen width.
   - For screens wider than 600px, display the menu options side-by-side.
   - For screens 600px or narrower, stack the menu options vertically.
 1. Test your changes by resizing the browser window to ensure the navigation bar adjusts correctly.
